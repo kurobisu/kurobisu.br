@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body {
+    background-color: #29272A;
+    color: white;
+}
+
+h1 {
+    color: #B1B1D8;
+}
+
+li {
+    list-style-type: none;
+}
+ul > li > a {
+    text-decoration: none;
+    color: white;
+}
